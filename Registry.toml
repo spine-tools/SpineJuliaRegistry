@@ -3,3 +3,4 @@ uuid = "3d0e5f26-04f2-4311-8ef0-0515aa5b4ff5"
 repo = "https://github.com/Spine-project/SpineJuliaRegistry.git"
 
 [packages]
+0cda1612-498a-11e9-3c92-77fa82595a4f = { name = "SpineInterface", path = "S/SpineInterface" }
