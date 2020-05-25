@@ -1,3 +1,3 @@
 name = "SpineInterface"
 uuid = "0cda1612-498a-11e9-3c92-77fa82595a4f"
-repo = "git@gitlab.vtt.fi:spine/SpineInterface.jl.git"
+repo = "https://github.com/Spine-project/SpineInterface.jl.git"
