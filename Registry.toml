@@ -4,5 +4,5 @@ repo = "https://github.com/Spine-project/SpineJuliaRegistry.git"
 
 [packages]
 0cda1612-498a-11e9-3c92-77fa82595a4f = { name = "SpineInterface", path = "S/SpineInterface" }
+b74cbf36-17f7-11e9-3430-fdc535b30a00 = { name = "SpineModel", path = "S/SpineModel" }
 163584a9-52e1-4a4e-9262-a8c2d5456af4 = { name = "SpinePeriods", path = "S/SpinePeriods" }
-b74cbf36-17f7-11e9-3430-fdc535b30a00 = { name = "SpineOpt", path = "S/SpineOpt" }
