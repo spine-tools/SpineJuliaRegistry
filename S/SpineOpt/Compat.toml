@@ -14,5 +14,8 @@ PowerSystems = "0.26"
 ["0.4.2"]
 SpineInterface = "0.3.6-0.3"
 
-["0.4.3-0"]
+["0.4.3"]
 SpineInterface = "0.3.7-0.3"
+
+["0.4.4-0"]
+SpineInterface = "0.3.8-0.3"
