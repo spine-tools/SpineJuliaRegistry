@@ -65,5 +65,8 @@ SpineInterface = "0.8.5-0.8"
 ["0.6.7"]
 SpineInterface = "0.8.7-0.8"
 
-["0.6.8-0"]
+["0.6.8"]
 SpineInterface = "0.8.8-0.8"
+
+["0.6.9-0"]
+SpineInterface = "0.9"
