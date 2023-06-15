@@ -1,6 +1,4 @@
 [0]
-Cbc = "9961bab8-2fa3-5c5a-9d89-47fab24efd76"
-Clp = "e2554f3b-3117-50c0-817c-e040a3ddf72d"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
@@ -17,6 +15,10 @@ TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
 ["0-0.5.4"]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 
+["0-0.6.11"]
+Cbc = "9961bab8-2fa3-5c5a-9d89-47fab24efd76"
+Clp = "e2554f3b-3117-50c0-817c-e040a3ddf72d"
+
 ["0.4.8-0"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 
@@ -25,6 +27,9 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 
 ["0.6.11-0"]
 Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+
+["0.6.13-0"]
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
 
 ["0.6.5-0"]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
