@@ -17,7 +17,17 @@ First you need to be in a Julia environment with *LocalRegistry* installed
 ```julia
 using LocalRegistry
 ```
-Next, you want to `develop` the latest version of the package you want to register
+You can see the versions of the packages contained within this registry under
+`S\\<PACKAGE_NAME>\\Versions.toml`, and you cannot register a new version
+of a package unless its version is higher than any registered one.
+Versions of Julia packages are contained in their respective `Project.toml` files, e.g.:
+```julia
+name = "SpineOpt"
+uuid = "0d8fc150-4032-4b6e-9540-20efcb304861"
+authors = ["Spine Project consortium <spine_info@vtt.fi>"]
+version = "0.6.14"
+```
+Then, you want to `develop` the latest version of the package you want to register
 into said environment
 ```julia
 using Pkg
