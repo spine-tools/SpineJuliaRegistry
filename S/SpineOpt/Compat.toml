@@ -56,8 +56,12 @@ SpineInterface = "0.10.3-0.10"
 ["0.6.13"]
 SpineInterface = "0.11.1-0.11"
 
-["0.6.14-0"]
+["0.6.14"]
 SpineInterface = "0.11.3-0.11"
+
+["0.6.15-0"]
+JuMP = "0.0.0-1.13"
+SpineInterface = "0.11.6-0.11"
 
 ["0.6.2"]
 SpineInterface = "0.6.2-0.6"
