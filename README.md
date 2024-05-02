@@ -35,7 +35,7 @@ Pkg.develop("<path_to_desired_package>")
 ```
 And finally, you register the `develop` version of the package
 ```julia
-register("<name_of_package>")
+register("<name_of_package>", registry="<path_to_local_clone_of_SpineJuliaRegistry>")
 ```
 
 As long as your only updating the versions of the packages included in the registry,
