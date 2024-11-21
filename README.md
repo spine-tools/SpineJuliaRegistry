@@ -1,5 +1,8 @@
 # SpineJuliaRegistry
 
+>[!IMPORTANT]
+> This repository is obsolete! Both [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) and [SpineInterface](https://github.com/spine-tools/SpineInterface.jl) are now available through general Julia registry.
+
 Julia package registry for the Spine project.
 
 
